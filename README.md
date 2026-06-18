@@ -4,8 +4,7 @@ Este repositorio contiene el compendio completo de actividades prácticas, desar
 
 El proyecto abarca desde la deducción analítica de algoritmos clásicos hasta su implementación en código, utilizando librerías científicas y visualizaciones avanzadas para evaluar su rendimiento.
 
-## 📁 Estructura del Repositorio
-
+## Estructura del repo
 El repositorio está organizado de la siguiente manera para facilitar la ejecución de los programas y la compilación del reporte:
 
 ```text
@@ -37,7 +36,7 @@ El repositorio está organizado de la siguiente manera para facilitar la ejecuci
 
 ```
 
-## 🚀 Contenido y Correspondencia de Actividades
+## Contenido y Correspondencia de Actividades
 
 A continuación se detalla qué cubre cada sección del reporte y qué script de la carpeta `src/` se encarga de su simulación:
 
@@ -50,7 +49,7 @@ A continuación se detalla qué cubre cada sección del reporte y qué script de
 7. **Support Vector Machines - SVM (Actividad 10 y 11):** Margen máximo para datos linealmente separables (Dummy) y uso del *kernel trick* (RBF) para resolver el problema no lineal XOR. `[src/06_svm_lineal_y_xor.py]`
 8. **KNN & Reducción de Dimensionalidad PCA (Actividad 12, 13 y más):** Implementación de K-Nearest Neighbors y optimización del espacio de características mediante Análisis de Componentes Principales por el método de la matriz de covarianza. `[src/07_knn_iris.py]` y `[src/08_pca_knn_iris.py]`
 
-## 🛠️ Instalación y Uso
+## Instalación y Uso
 
 ### 1. Clonar el repositorio
 
@@ -80,17 +79,13 @@ python src/02_regresion_ransac.py
 
 ```
 
-## ✒️ Autores
+## Autores
 
 * **Alumno:** Braulio Leonardo Santa Fe García – *Departamento de Sistemas, UAM Azcapotzalco*
 * **Profesor:** Arturo Zúñiga López
 
 ```
 
-### 💡 Una última recomendación:
-Como movimos las imágenes a una carpeta llamada `img/`, dentro de tu archivo de $\LaTeX$ (`main.tex`) puedes añadir esta línea justo después del preámbulo (antes de `\begin{document}`):
-```latex
-\graphicspath{{img/}}
 
 ```
 
