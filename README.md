@@ -21,18 +21,9 @@ El repositorio está organizado de la siguiente manera para facilitar la ejecuci
 │   ├── 06_svm_lineal_y_xor.py
 │   ├── 07_knn_iris.py
 │   └── 08_pca_knn_iris.py
-│
-├── img/                          # Gráficos generados por los programas (para el PDF)
-│   ├── uam-azcapotzalco.png
-│   ├── graddesc.png
-│   ├── corr.png
-│   ├── Ransac.png
-│   ├── confusionmatrix.png
-│   └── (demás_figuras...)
-│
-├── main.tex                      # Documento fuente en LaTeX corregido
 ├── ML_TareasCompletas.pdf        # Reporte final compilado
-└── README.md                     # Este archivo
+└── README.md                    
+
 
 ```
 
